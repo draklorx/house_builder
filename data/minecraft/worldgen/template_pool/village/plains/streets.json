@@ -1,0 +1,14 @@
+{
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:legacy_single_pool_element",
+          "location": "minecraft:straight_street_1",
+          "processors": "minecraft:street_plains",
+          "projection": "terrain_matching"
+        },
+        "weight": 4
+      }
+    ],
+    "fallback": "minecraft:village/plains/terminators"
+  }
