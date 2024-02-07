@@ -10,6 +10,6 @@
         "weight": 2
       }
     ],
-    "fallback": "kiers_villages:gable_back_roofs"
+    "fallback": "kiers_villages:village/plains/warped/gable_back_roofs"
   }
   

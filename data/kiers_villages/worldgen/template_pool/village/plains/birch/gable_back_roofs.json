@@ -10,6 +10,6 @@
         "weight": 2
       }
     ],
-    "fallback": "kiers_villages:gable_back_roofs"
+    "fallback": "kiers_villages:village/plains/birch/gable_back_roofs"
   }
   
