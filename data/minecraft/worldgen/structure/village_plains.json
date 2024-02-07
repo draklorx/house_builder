@@ -37,6 +37,11 @@
               "type": "minecraft:direct",
               "alias": "kiers_villages:porches",
               "target": "kiers_villages:village/plains/birch/porches"
+            },
+            {
+              "type": "minecraft:direct",
+              "alias": "kiers_villages:gable_back_roofs",
+              "target": "kiers_villages:village/plains/birch/gable_back_roofs"
             }
           ],
           "weight": 1
@@ -72,6 +77,11 @@
               "type": "minecraft:direct",
               "alias": "kiers_villages:porches",
               "target": "kiers_villages:village/plains/warped/porches"
+            },
+            {
+              "type": "minecraft:direct",
+              "alias": "kiers_villages:gable_back_roofs",
+              "target": "kiers_villages:village/plains/warped/gable_back_roofs"
             }
           ],
           "weight": 1
