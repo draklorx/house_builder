@@ -10,28 +10,33 @@
           "data": [
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:village/plains_biome/houses",
-              "target": "minecraft:village/plains/birch/houses"
+              "alias": "kiers_villages:village/plains/houses",
+              "target": "kiers_villages:village/plains/birch/houses"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:front_walls",
-              "taret": "minecraft:village/plains/birch/front_walls"
+              "alias": "kiers_villages:back_walls",
+              "taret": "kiers_villages:village/plains/birch/back_walls"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:front_top_walls",
-              "target": "minecraft:village/plains/birch/front_top_walls"
+              "alias": "kiers_villages:front_walls",
+              "taret": "kiers_villages:village/plains/birch/front_walls"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:side_walls",
-              "target": "minecraft:village/plains/birch/side_walls"
+              "alias": "kiers_villages:front_top_walls",
+              "target": "kiers_villages:village/plains/birch/front_top_walls"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:porches",
-              "target": "minecraft:village/plains/birch/porches"
+              "alias": "kiers_villages:side_walls",
+              "target": "kiers_villages:village/plains/birch/side_walls"
+            },
+            {
+              "type": "minecraft:direct",
+              "alias": "kiers_villages:porches",
+              "target": "kiers_villages:village/plains/birch/porches"
             }
           ],
           "weight": 1
@@ -40,28 +45,33 @@
           "data": [
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:village/plains_biome/houses",
-              "target": "minecraft:village/plains/warped/houses"
+              "alias": "kiers_villages:village/plains/houses",
+              "target": "kiers_villages:village/plains/warped/houses"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:front_walls",
-              "taret": "minecraft:village/plains/warped/front_walls"
+              "alias": "kiers_villages:back_walls",
+              "taret": "kiers_villages:village/plains/warped/back_walls"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:front_top_walls",
-              "target": "minecraft:village/plains/warped/front_top_walls"
+              "alias": "kiers_villages:front_walls",
+              "taret": "kiers_villages:village/plains/warped/front_walls"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:side_walls",
-              "target": "minecraft:village/plains/warped/side_walls"
+              "alias": "kiers_villages:front_top_walls",
+              "target": "kiers_villages:village/plains/warped/front_top_walls"
             },
             {
               "type": "minecraft:direct",
-              "alias": "minecraft:porches",
-              "target": "minecraft:village/plains/warped/porches"
+              "alias": "kiers_villages:side_walls",
+              "target": "kiers_villages:village/plains/warped/side_walls"
+            },
+            {
+              "type": "minecraft:direct",
+              "alias": "kiers_villages:porches",
+              "target": "kiers_villages:village/plains/warped/porches"
             }
           ],
           "weight": 1
@@ -70,7 +80,7 @@
     }
   ],
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
-  "size": 6,
+  "size": 20,
   "spawn_overrides": {},
   "start_height": {
     "absolute": 0

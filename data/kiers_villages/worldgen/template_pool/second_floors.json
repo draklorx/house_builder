@@ -1,0 +1,15 @@
+{
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "kiers_villages:second_floor_3",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      }
+    ],
+    "fallback": "kiers_villages:second_floors"
+  }
+  

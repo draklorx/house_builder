@@ -3,7 +3,7 @@
       {
         "element": {
           "element_type": "minecraft:legacy_single_pool_element",
-          "location": "minecraft:straight_street_1",
+          "location": "kiers_villages:straight_street_1",
           "processors": "minecraft:street_plains",
           "projection": "terrain_matching"
         },

@@ -1,0 +1,15 @@
+{
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "kiers_villages:back_wall_1",
+          "processors": "kiers_villages:birch",
+          "projection": "rigid"
+        },
+        "weight": 2
+      }
+    ],
+    "fallback": "kiers_villages:village/plains/birch/back_walls"
+  }
+  
