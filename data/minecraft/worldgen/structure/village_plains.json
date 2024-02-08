@@ -10,7 +10,7 @@
           "data": [
             {
               "type": "minecraft:direct",
-              "alias": "kiers_villages:village/plains/houses",
+              "alias": "kiers_villages:houses",
               "target": "kiers_villages:village/plains/birch/houses"
             },
             {
@@ -50,7 +50,7 @@
           "data": [
             {
               "type": "minecraft:direct",
-              "alias": "kiers_villages:village/plains/houses",
+              "alias": "kiers_villages:houses",
               "target": "kiers_villages:village/plains/warped/houses"
             },
             {
