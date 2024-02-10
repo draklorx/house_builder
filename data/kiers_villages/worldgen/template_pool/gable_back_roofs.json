@@ -3,13 +3,13 @@
       {
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "kiers_villages:staircase_rails_1",
-          "processors": "minecraft:empty",
+          "location": "kiers_villages:gable_back_roof_1",
+          "processors": "kiers_villages:birch",
           "projection": "rigid"
         },
         "weight": 2
       }
     ],
-    "fallback": "kiers_villages:staircase_1_rails"
+    "fallback": "kiers_villages:village/plains/birch/gable_back_roofs"
   }
   

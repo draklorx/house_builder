@@ -3,13 +3,13 @@
       {
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "kiers_villages:second_floor_1",
+          "location": "kiers_villages:spiral_staircase_rails_1",
           "processors": "minecraft:empty",
           "projection": "rigid"
         },
         "weight": 2
       }
     ],
-    "fallback": "kiers_villages:second_floors"
+    "fallback": "kiers_villages:spiral_staircase_rails"
   }
   

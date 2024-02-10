@@ -3,8 +3,8 @@
       {
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "kiers_villages:straight_staircase_1",
-          "processors": "minecraft:empty",
+          "location": "kiers_villages:front_wall_1",
+          "processors": "kiers_villages:birch",
           "projection": "rigid"
         },
         "weight": 2
@@ -12,13 +12,13 @@
       {
         "element": {
           "element_type": "minecraft:single_pool_element",
-          "location": "kiers_villages:spiral_staircase_1",
-          "processors": "minecraft:empty",
+          "location": "kiers_villages:front_wall_2",
+          "processors": "kiers_villages:birch",
           "projection": "rigid"
         },
         "weight": 2
       }
     ],
-    "fallback": "kiers_villages:staircases"
+    "fallback": "kiers_villages:village/plains/birch/front_walls"
   }
   

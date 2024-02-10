@@ -1,0 +1,23 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "kiers_villages:front_top_wall_1",
+        "processors": "kiers_villages:birch",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "kiers_villages:front_top_wall_2",
+        "processors": "kiers_villages:birch",
+        "projection": "rigid"
+      },
+      "weight": 2
+    }
+  ],
+  "fallback": "kiers_villages:village/plains/birch/front_top_walls"
+}
